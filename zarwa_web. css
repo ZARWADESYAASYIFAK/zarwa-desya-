@@ -1,0 +1,457 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__1 {
+	position: absolute;
+	width: 1300px;
+	height: 2628px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#awal {
+	position: absolute;
+	width: 1312px;
+	height: 1953px;
+	left: -6px;
+	top: 0px;
+	overflow: visible;
+}
+#c27fa0024b9d8a51b17da61842342d {
+	position: absolute;
+	width: 1302px;
+	height: 1953px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1305px;
+	height: 164px;
+	left: 7px;
+	top: 0px;
+}
+#Beranda {
+	left: 289px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#category {
+	left: 488px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#promo {
+	left: 694px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#voucher {
+	left: 870px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Anda_Puas_Kami_Senang {
+	left: 81px;
+	top: 506px;
+	position: absolute;
+	overflow: visible;
+	width: 1178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Imprint MT Shadow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(13,13,13,1);
+}
+#kisspng-royalty-free-cartoon-b {
+	position: absolute;
+	width: 73px;
+	height: 130px;
+	left: 69px;
+	top: 15px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 268.992px;
+	height: 262.861px;
+	left: 43px;
+	top: 867px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#resep-kolak-pisang-ubi-bandung {
+	position: absolute;
+	width: 254px;
+	height: 140px;
+	left: 51px;
+	top: 888px;
+	overflow: visible;
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 278.739px;
+	height: 262.861px;
+	left: 919px;
+	top: 867px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 267px;
+	height: 262.861px;
+	left: 482px;
+	top: 867px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_0f96b29893c0 {
+	position: absolute;
+	width: 255px;
+	height: 127px;
+	left: 488px;
+	top: 885px;
+	overflow: visible;
+}
+#a6dbc7ed-0bb2-47fa-b54d-5e06a7 {
+	position: absolute;
+	width: 253px;
+	height: 143px;
+	left: 926px;
+	top: 885px;
+	overflow: visible;
+}
+#Kolak_Pisang {
+	left: 85px;
+	top: 1048px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#Yogurt_Pisang {
+	left: 517px;
+	top: 1048px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#Roti_Pisang {
+	left: 978px;
+	top: 1048px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#Path_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 268.992px;
+	height: 262.861px;
+	left: 270px;
+	top: 1230px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 268.992px;
+	height: 262.861px;
+	left: 709.008px;
+	top: 1230px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#pisang-crispy-1 {
+	position: absolute;
+	width: 247px;
+	height: 164px;
+	left: 281px;
+	top: 1230px;
+	overflow: visible;
+}
+#Pisang_Crispy_ {
+	left: 305px;
+	top: 1409px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#nuget {
+	position: absolute;
+	width: 266px;
+	height: 189px;
+	left: 714px;
+	top: 1230px;
+	overflow: visible;
+}
+#nuget_pisang {
+	left: 749px;
+	top: 1430px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#Contact_Person {
+	left: 537px;
+	top: 1918px;
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(13,13,13,1);
+}
+#n_81341349239 {
+	left: 573px;
+	top: 1983px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,13,13,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	height: 237px;
+	left: 137px;
+	top: 2301px;
+}
+#minuman {
+	position: absolute;
+	width: 250px;
+	height: 166px;
+	left: 137px;
+	top: 2301px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 247px;
+	left: 526px;
+	top: 2282px;
+}
+#es-pisang-ijo-dan-kisah-juru-m {
+	position: absolute;
+	width: 249px;
+	height: 140px;
+	left: 526px;
+	top: 2280px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 275px;
+	height: 252px;
+	left: 847px;
+	top: 2277px;
+}
+#n_32516_620 {
+	position: absolute;
+	width: 267px;
+	height: 153px;
+	left: 847px;
+	top: 2282px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1306px;
+	height: 64px;
+	left: -6px;
+	top: 2176px;
+}
